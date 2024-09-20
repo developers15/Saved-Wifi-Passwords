@@ -6,7 +6,7 @@
 #define popen _popen
 #define pclose _pclose
 
-// Author: Imran Memon
+/
 // License: MIT
 // Email: javascriptisthebestlanguage@gmail.com
 // I tortured myself just so you can have a wifi password Retrieval tool, MF, AND I SPENT LIKE 3 HOURS HELP
